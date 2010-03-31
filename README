@@ -1,0 +1,29 @@
+Switcher
+----------
+
+Switcher it's an utility to make easier comment and uncomment
+proxy configration settings for different applicazion like:
+   * git
+   * svn
+   * apt
+   * wget
+   * etc.
+
+
+Configuration
+---------------
+
+You should write a configuration file like switch.cfg with your settings
+
+
+
+Author
+---------
+
+Pietro Zambelli
+
+
+License
+---------
+
+Switcher it's under LGPL license 
