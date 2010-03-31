@@ -1,0 +1,4 @@
+#http_proxy = http://proxy.ing.unitn.it:3128/
+#    ftp_proxy = http://proxy.ing.unitn.it:3128/
+#    use_proxy = on
+
